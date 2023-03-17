@@ -53,5 +53,6 @@
 
 <a href="{{ route('welcome') }}">Ir al inicio</a> <br>
 <a href="{{ route('example') }}">Ir a example</a>
+<a href="{{ route('superheros') }}">Ir a superheros</a>
 
 </body>
